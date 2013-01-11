@@ -3,8 +3,8 @@ Contributors: atallos
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LRLW5AMCJGWQN
 Tags: buddypress, xprofile, fields
 Requires at least: 3.0
-Tested up to: 3.4
-Stable tag: 1.4.2
+Tested up to: 3.5
+Stable tag: 1.4.5
 
 Add more custom fields type to extended profiles in Buddypress: Birthdate, Email, Web, Datepicker, ...
 
@@ -30,8 +30,24 @@ If you need more fields type, you are free to add them yourself or request us at
 
 1. Upload the plugin to your 'wp-content/plugins' directory
 2. Activate the plugin
+3. Go to Users > Profile Fields
+4. Create or Edit a field (default buddypress field Name don't allow changing type, it will not work here).
+5. In Field Type select, you can see new field's type.
+6. Enjoy!
 
 == Changelog ==
+
+= 1.4.6 =
+* Updated Installation instructions.
+
+= 1.4.5 =
+* Solved bug with Wordpress 3.4
+
+= 1.4.4 =
+* Solved bug when using bp_get_profile_field_data in buddypress. Added new filter bxcft_get_field_data.
+
+= 1.4.3 =
+* Solved compatibility with Wordpress 3.5
 
 = 1.4.2 =
 * Trying to solve issue with bp profile search (there is no date field).
