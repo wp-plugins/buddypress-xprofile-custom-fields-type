@@ -4,14 +4,15 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: buddypress, xprofile, fields
 Requires at least: 3.0
 Tested up to: 3.5
-Stable tag: 1.4.6
+Stable tag: 1.5.5.2
 
 Add more custom fields type to extended profiles in Buddypress: Birthdate, Email, Web, Datepicker, ...
 
 == Description ==
 
 Buddypress installation required!!
-Add more custom fields type to extended profiles in buddypress: Birthdate, Email, Web, Datepicker, Custom post type. 
+Add more custom fields type to extended profiles in buddypress: Birthdate, Email, Web, Datepicker, Custom post type, Multi custom post type, checkbox acceptance, image field and type field. 
+We add now a new visibility setting 'Nobody' to create fields hidden to all members of buddypress.
 Works with <a href="http://buddypress.org/community/groups/bp-profile-search/" title="BP Profile Search">BP Profile Search plugin</a> searching birthdate and age range.
 If you need more fields type, you are free to add them yourself or request us at info@atallos.com.
 
@@ -24,6 +25,10 @@ If you need more fields type, you are free to add them yourself or request us at
 * Add Datepicker field (HTML5).
 * Add Custom post type selector.
 * Add Custom post type multiselector.
+* Add Checkbox acceptance.
+* Add Image Field (jpg, jpeg, gif, png).
+* Add File field (doc, docx, pdf).
+* Add new visibility setting "Nobody". Hide the field to all members.
 * Works with BP Profile Search plugin.
 
 == Installation ==
@@ -36,6 +41,55 @@ If you need more fields type, you are free to add them yourself or request us at
 6. Enjoy!
 
 == Changelog ==
+
+= 1.5.5.2 =
+* New visibility setting "nobody" was wrong. Now it should work.
+
+= 1.5.5.1 =
+* Solved an error with the new filter created in version 1.5.4, change the position value_to_return to first argument.
+
+= 1.5.5 =
+* Solved a problem while checking the hook "bp_custom_profile_edit_fields_pre_visibility". We check now for version of buddypress, if it's prior to 1.7, we load the fields in the other hook "bp_custom_profile_edit_fields". The description will still appear after the visibility settings. You need to change this manually in your templates.
+* Updated spanish translation.
+
+= 1.5.4 =
+* Created a new filter to show field value. Now you can add a filter in your functions.php and customize the way the field value will appear to the user.
+
+= 1.5.3 =
+* Changed the hook on bp_custom_profile_edit_fields to bp_custom_profile_edit_fields_pre_visibility because the fields will appear now before visibility settings. We check before the new tag exists because it's new to Buddypress 1.7. If it does not existe we will use then the other tag.
+* Changed the hook on bp_init to bp_setup_globals.
+
+= 1.5.2 = 
+* Removed default case in switch bxcft_admin_render_new_xprofile_field_type in case other plugins add more fields.
+
+= 1.5.1 =
+* Solved an error with WP_CONTENT_URL or WP_CONTENT_DIR when upload dir was customized.
+* Deleted http:// from the placeholder of Website field.
+
+= 1.5 =
+* Added checkbox acceptance for terms and conditions.
+* Added image field (jpg, jpeg, png, gif). Created a filter 'images_ext_allowed' you can use to accept more images types. User can delete the image.
+* Added file field (doc, docx, pdf). Created a filter 'files_ext_allowed' you can use to accept more files types. User can delete the file.
+* Added new visibility 'Nobody' which hide field to all members.
+
+= 1.4.9.3 =
+* Added Russian translation thanks to Romik Jan.
+* Class required added now and the "*" required asterisk is translatable. All this update is thanks to Romik Jan!
+
+= 1.4.9.2 =
+* Displaying all custom post type instead of only first ten in all cases...
+
+= 1.4.9.1 =
+* Displaying all custom post type instead of only first ten. Thanks to <a href="http://wordpress.org/support/topic/custom-post-type-multiselector?replies=3">dabesa</a>
+
+= 1.4.9 =
+* Added Slovak translation thanks to Branco Radenovich <a href="http://webhostinggeeks.com/user-reviews/">WebHostingGeeks.com</a>
+
+= 1.4.8 =
+* Added German translation thanks to @per4mance <a href="http://buddypress.org/community/members/per4mance/">http://buddypress.org/community/members/per4mance/</a>.
+
+= 1.4.7 =
+* Updated pot file.
 
 = 1.4.6 =
 * Updated Installation instructions.
