@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: bp-friends-suggest\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-04-08 23:27+0100\n"
-"PO-Revision-Date: 2013-04-08 23:36+0100\n"
-"Last-Translator: miguel <donmik@gmail.com>\n"
+"PO-Revision-Date: 2013-06-05 17:26+0400\n"
+"Last-Translator: RJ <romik.jan@gmail.com>\n"
 "Language-Team: \n"
+"Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: .\n"
-"X-Generator: Poedit 1.5.5\n"
+"X-Generator: Poedit 1.5.3\n"
 "X-Poedit-SearchPath-0: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-"
 "custom-fields-type\n"
 
@@ -54,7 +55,7 @@ msgstr ""
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:90
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:312
 msgid "http://yourwebsite.com"
-msgstr "http://tonsiteweb.fr"
+msgstr "http://вашвебсайт.ру"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:45
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:251
@@ -95,7 +96,7 @@ msgstr "http://tonsiteweb.fr"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:95
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:304
 msgid "example@mail.com"
-msgstr "example@mail.fr"
+msgstr "ваш_ящик@example.ru"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:104
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:214
@@ -136,7 +137,7 @@ msgstr "example@mail.fr"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:154
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:264
 msgid "January"
-msgstr "Janvier"
+msgstr "Январь"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:105
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:215
@@ -177,7 +178,7 @@ msgstr "Janvier"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:155
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:265
 msgid "February"
-msgstr "Février"
+msgstr "Февраль"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:106
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:216
@@ -218,7 +219,7 @@ msgstr "Février"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:156
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:266
 msgid "March"
-msgstr "Mars"
+msgstr "Март"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:107
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:217
@@ -259,7 +260,7 @@ msgstr "Mars"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:157
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:267
 msgid "April"
-msgstr "Avril"
+msgstr "Апрель"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:108
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:218
@@ -300,7 +301,7 @@ msgstr "Avril"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:158
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:268
 msgid "May"
-msgstr "Mai"
+msgstr "Май"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:109
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:219
@@ -341,7 +342,7 @@ msgstr "Mai"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:159
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:269
 msgid "June"
-msgstr "Juin"
+msgstr "Июнь"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:110
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:220
@@ -382,7 +383,7 @@ msgstr "Juin"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:160
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:270
 msgid "July"
-msgstr "Juillet"
+msgstr "Июль"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:111
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:221
@@ -423,7 +424,7 @@ msgstr "Juillet"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:161
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:271
 msgid "August"
-msgstr "Août"
+msgstr "Август"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:112
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:222
@@ -464,7 +465,7 @@ msgstr "Août"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:162
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:272
 msgid "September"
-msgstr "Septembre"
+msgstr "Сентябрь"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:113
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:223
@@ -505,7 +506,7 @@ msgstr "Septembre"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:163
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:273
 msgid "October"
-msgstr "Octobre"
+msgstr "Октябрь"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:114
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:224
@@ -546,7 +547,7 @@ msgstr "Octobre"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:164
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:274
 msgid "November"
-msgstr "Novembre"
+msgstr "Ноябрь"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:115
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:225
@@ -587,7 +588,7 @@ msgstr "Novembre"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:165
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:275
 msgid "December"
-msgstr "Décembre"
+msgstr "Декабрь"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:133
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.1.0/bp-xprofile-custom-fields-type.php:166
@@ -609,7 +610,7 @@ msgstr "Décembre"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.4.9.3/bp-xprofile-custom-fields-type.php:166
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:183
 msgid "Field type unrecognized"
-msgstr "Type de champ non reconnu"
+msgstr "Тип поля не распознан"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:306
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.1.0/bp-xprofile-custom-fields-type.php:437
@@ -631,7 +632,7 @@ msgstr "Type de champ non reconnu"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.4.9.3/bp-xprofile-custom-fields-type.php:619
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:696
 msgid "Birthdate"
-msgstr "Date de naissance"
+msgstr "День рождения"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:307
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.1.0/bp-xprofile-custom-fields-type.php:438
@@ -675,7 +676,7 @@ msgstr "Email"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.4.9.3/bp-xprofile-custom-fields-type.php:621
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:698
 msgid "Website"
-msgstr "Site Web"
+msgstr "Вебсайт"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.0.0/bp-xprofile-custom-fields-type.php:309
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.1.0/bp-xprofile-custom-fields-type.php:440
@@ -697,7 +698,7 @@ msgstr "Site Web"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.4.9.3/bp-xprofile-custom-fields-type.php:622
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:699
 msgid "Datepicker"
-msgstr "Datepicker HTML5"
+msgstr "Выбор даты"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.1.0/bp-xprofile-custom-fields-type.php:323
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.1.1/bp-xprofile-custom-fields-type.php:323
@@ -718,7 +719,7 @@ msgstr "Datepicker HTML5"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.4.9.3/bp-xprofile-custom-fields-type.php:326
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:343
 msgid "Select..."
-msgstr "Choisir…"
+msgstr "Выбрать..."
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.1.0/bp-xprofile-custom-fields-type.php:441
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.1.1/bp-xprofile-custom-fields-type.php:441
@@ -739,7 +740,7 @@ msgstr "Choisir…"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.4.9.3/bp-xprofile-custom-fields-type.php:623
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:700
 msgid "Custom Post Type Selector"
-msgstr "Sélecteur de type de post personnalisé"
+msgstr "Custom Post Type - Селектор"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.1.0/bp-xprofile-custom-fields-type.php:442
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.1.1/bp-xprofile-custom-fields-type.php:442
@@ -760,7 +761,7 @@ msgstr "Sélecteur de type de post personnalisé"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.4.9.3/bp-xprofile-custom-fields-type.php:624
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:701
 msgid "Custom Post Type Multiselector"
-msgstr "Sélecteur multiple de type de post personnalisé"
+msgstr "Custom Post Type - Мультиселектор"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.1.0/bp-xprofile-custom-fields-type.php:500
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.1.0/bp-xprofile-custom-fields-type.php:531
@@ -799,7 +800,7 @@ msgstr "Sélecteur multiple de type de post personnalisé"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:777
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:808
 msgid "Please, select custom post type"
-msgstr "S'il vous plaît, sélectionner un type de post personnalisé"
+msgstr "Выберите тип поля"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.1.0/bp-xprofile-custom-fields-type.php:502
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.1.0/bp-xprofile-custom-fields-type.php:533
@@ -838,7 +839,7 @@ msgstr "S'il vous plaît, sélectionner un type de post personnalisé"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:779
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:810
 msgid "Custom Post Type:"
-msgstr "Type de post personnalisé:"
+msgstr "Собственный тип поля:"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.3/bp-xprofile-custom-fields-type.php:664
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.4/bp-xprofile-custom-fields-type.php:664
@@ -856,7 +857,7 @@ msgstr "Type de post personnalisé:"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.4.9.3/bp-xprofile-custom-fields-type.php:754
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:834
 msgid "Show age (hide birthdate)"
-msgstr "Montrer l'âge (cacher date de naissance)"
+msgstr "Показать возраст (спрятать дату рождения)"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.3/bp-xprofile-custom-fields-type.php:666
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.4/bp-xprofile-custom-fields-type.php:666
@@ -874,9 +875,7 @@ msgstr "Montrer l'âge (cacher date de naissance)"
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.4.9.3/bp-xprofile-custom-fields-type.php:756
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:836
 msgid "Check this if you want to show age instead of birthdate:"
-msgstr ""
-"Cochez cette case si vous voulez montrer l'âge plutôt que la date de "
-"naissance:"
+msgstr "Отметьте, если нужно показывать возраст вместо даты рождения:"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.4.9.3/bp-xprofile-custom-fields-type.php:231
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/tags/1.4.9.3/bp-xprofile-custom-fields-type.php:286
@@ -891,72 +890,70 @@ msgstr ""
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:341
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:368
 msgid "*"
-msgstr "*"
+msgstr "(обязательно)"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:376
-#, fuzzy
 msgid "There is no custom post type selected."
-msgstr "S'il vous plaît, sélectionner un type de post personnalisé"
+msgstr "Custom Post type не выбран"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:396
 msgid "Check this to delete this image"
-msgstr "Cochez cette case pour supprimer cette image"
+msgstr "Отметьте, чтобы удалить это изображение"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:411
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:535
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:637
 msgid "Download file"
-msgstr "Télécharger le fichier"
+msgstr "Скачать файл"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:414
 msgid "Check this to delete this file"
-msgstr "Cochez cette case pour supprimer ce fichier"
+msgstr "Отметьте, чтобы удалить этот файл"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:527
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:629
 msgid "yes"
-msgstr "oui"
+msgstr "да"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:527
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:629
 msgid "no"
-msgstr "non"
+msgstr "нет"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:702
 msgid "Checkbox acceptance"
-msgstr "Case d'acceptation"
+msgstr "Чекбокс соглашения"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:703
 msgid "Image"
-msgstr "Image"
+msgstr "Изображение"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:704
 msgid "File"
-msgstr "Fichier"
+msgstr "Файл"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:858
 msgid "Nobody"
-msgstr "Nobody"
+msgstr "Никто"
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:973
 msgid ""
 "Please make sure you fill in all required fields in this profile field group "
 "before saving."
 msgstr ""
-"S'il vous plaît assurez-vous de remplir tous les champs obligatoires dans ce "
-"groupe de champs profil avant de l'enregistrer."
+"Перед сохранением проверьте, что вы заполнили все обязательные поля профиля."
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:1062
 msgid ""
 "There was a problem updating some of your profile information, please try "
 "again."
 msgstr ""
-"Il y avait un problème de mise à jour de certaines informations de votre "
-"profil, s'il vous plaît essayez de nouveau."
+"При обновлении информации вашего профиля произошла ошибка, попробуйте еще "
+"раз."
 
 #: /Volumes/Almacen/proyectos/php/wp-plugins/bp-xprofile-custom-fields-type/trunk/bp-xprofile-custom-fields-type.php:1064
 msgid "Changes saved."
-msgstr "Modifications enregistrées."
+msgstr "Изменения сохранены."
 
 #~ msgid "Friends Suggest Widget"
 #~ msgstr "Widget Sugerencias Amigos"
